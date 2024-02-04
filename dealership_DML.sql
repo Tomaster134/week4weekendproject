@@ -229,3 +229,32 @@
 --     5,
 --     3
 -- );
+
+-- INSERT INTO cars(
+--         vin_num,
+--         customer_id,
+--         make,
+--         model,
+--         year
+--     )
+-- VALUES (
+--     '3FA6P0PU4FR147385',
+--     1,
+--     'Mazda',
+--     'S6',
+--     2022
+--     );
+
+-- INSERT INTO invoices(
+--     sp_id,
+--     vin_num,
+--     customer_id,
+--     amount,
+--     date_sold
+-- ) VALUES (
+--     1,
+--     '3FA6P0PU4FR147385',
+--     1,
+--     60000.99,
+--     '2024-02-02'
+-- );
